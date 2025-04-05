@@ -8,21 +8,21 @@
    <left>
       <VBox prefHeight="400.0" prefWidth="187.0" style="-fx-background-color: #161616;" BorderPane.alignment="CENTER">
          <children>
-            <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#onCounterClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: MAGENTA;" text="Counter" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#onCounterClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: orange;" text="Counter">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font>
             </Button>
-            <Button mnemonicParsing="false" onAction="#onTrafficLightClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: MAGENTA;" text="Traffic Light" textFill="WHITE">
+            <Button mnemonicParsing="false" onAction="#onTrafficLightClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: orange;" text="Traffic Light">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font></Button>
-            <Button layoutX="10.0" layoutY="70.0" mnemonicParsing="false" onAction="#onCalculatorClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: MAGENTA;" text="Calculator" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="70.0" mnemonicParsing="false" onAction="#onCalculatorClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: orange;" text="Calculator">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="130.0" mnemonicParsing="false" onAction="#onTodoClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: MAGENTA;" text="Todo" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="130.0" mnemonicParsing="false" onAction="#onTodoClick" prefHeight="60.0" prefWidth="1000000.0" style="-fx-background-color: orange;" text="Todo">
                <font>
                   <Font name="System Bold" size="12.0" />
                </font>
